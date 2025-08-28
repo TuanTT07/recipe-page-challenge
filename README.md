@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [GitHub Repo](https://github.com/yourusername/recipe-page-frontendmentor)
--   Live Site URL: [Live Demo](https://your-live-site-link.netlify.app)
+-   Solution URL: [GitHub Repo](https://github.com/TuanTT07/recipe-page-challenge)
+-   Live Site URL: [Live Demo](https://tuantt07.github.io/recipe-page-challenge/)
 
 ## 🛠 My process
 
@@ -52,8 +52,8 @@ In future projects, I want to:
 
 ## 🙋 Author
 
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--   GitHub - [@yourusername](https://github.com/yourusername)
+-   Frontend Mentor - [@TuanTT07](https://www.frontendmentor.io/profile/TuanTT07)
+-   GitHub - [@TuanTT07](https://github.com/TuanTT07)
 
 ## 🙌 Acknowledgments
 
